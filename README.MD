@@ -1,6 +1,6 @@
-# IndoTagger
+# POS TAGGING BAHASA INDONESA
 
-IndoTagger adalah aplikasi berbasis web yang digunakan untuk melakukan *Part-of-Speech (POS) Tagging* pada teks bahasa Indonesia. Aplikasi ini dibangun menggunakan **Streamlit** dan memanfaatkan library **Stanza** untuk melakukan analisis linguistik secara otomatis. Hasil analisis dapat ditampilkan dalam bentuk tabel, distribusi tag, dan diunduh dalam format CSV.
+Aplikasi ini adalah aplikasi berbasis web yang digunakan untuk melakukan *Part-of-Speech (POS) Tagging* pada teks bahasa Indonesia. Aplikasi ini dibangun menggunakan **Streamlit** dan memanfaatkan library **Stanza** untuk melakukan analisis linguistik secara otomatis. Hasil analisis dapat ditampilkan dalam bentuk tabel, distribusi tag, dan diunduh dalam format CSV.
 
 ---
 
